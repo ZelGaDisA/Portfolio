@@ -9,10 +9,10 @@
             "githubLink": ""
         },
         {
-            "title": "",
-            "description": "",
+            "title": "Workers-app",
+            "description": "todo list with database",
             "preview": "",
-            "stack": "",
+            "stack": "JavaScript, HTML, CSS (SCSS), React",
             "deployLink": "",
             "githubLink": ""
         },
