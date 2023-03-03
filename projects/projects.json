@@ -1,10 +1,10 @@
 {
     "projects": [
         {
-            "title": "",
-            "description": "",
+            "title": "Social-Network",
+            "description": "Social network<br> learn react-js",
             "preview": "",
-            "stack": "",
+            "stack": "JavaScript, HTML, CSS (SCSS), React",
             "deployLink": "",
             "githubLink": ""
         },
