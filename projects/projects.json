@@ -25,26 +25,26 @@
             "githubLink": ""
         },
         {
-            "title": "",
-            "description": "",
+            "title": "HealthUapp",
+            "description": "Commercial project",
             "preview": "",
-            "stack": "",
+            "stack": "JS, TS, React, Redux, Mediapipe",
             "deployLink": "",
             "githubLink": ""
         },
         {
-            "title": "",
-            "description": "",
+            "title": "HealthUapp-Posture",
+            "description": "Commercial mobile project",
             "preview": "",
-            "stack": "",
+            "stack": "JavaScript, Ionic, Capacitor, CSS (SCSS), React, IOS(Java), Android(SWIFT)",
             "deployLink": "",
             "githubLink": ""
         },
         {
-            "title": "",
-            "description": "",
+            "title": "Beer-O-Meter",
+            "description": "Commercial mobile project",
             "preview": "",
-            "stack": "",
+            "stack": "TS, Ionic, Capacitor, CSS (SCSS), React, IOS(Java), Android(SWIFT)",
             "deployLink": "",
             "githubLink": ""
         },
